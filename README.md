@@ -1,0 +1,1 @@
+I noticed I couldn't replicate a qr code just by it's data. This got me interested in trying to figure out how qr codes work and how to find the parameters used to generate them. This script allowed me to find the parameters i needed to replicate a qr code for a parking lot. It's very inefficient code, but it did it's job.
